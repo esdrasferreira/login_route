@@ -1,16 +1,9 @@
 # tela_login_navigator
 
-A new Flutter application.
-
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Algumas funcionalidades adicionadas aos entradas de dados como senha que esconde ao ser digitado, mas pode ser selecionado visualizar, etc...
 
-A few resources to get you started if this is your first Flutter project:
+![loginSamurai](https://user-images.githubusercontent.com/47014385/59778682-55db7300-928d-11e9-9386-1de0271290b6.jpg)
+![homeSamurai](https://user-images.githubusercontent.com/47014385/59778683-55db7300-928d-11e9-90c0-0fe3d7cab5ef.jpg)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
